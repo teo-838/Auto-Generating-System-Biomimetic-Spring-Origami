@@ -1,5 +1,5 @@
 # Auto-Generating-System
-Installation and Setup
+Installation and Setup /n
 Step 1: Download (a) Auto-Generating System.py (b) EXCEL Template (c) hexcode.csv from the GitHub Repository and place them under the same folder.
 Step 2: Make sure (a) NumPy (b) matplotlib (c) math (d) CSV libraries are installed in python; otherwise, install those libraries before proceeding to the next step.
 Step 3: Specify the origami parameters by following the user guide in the EXCEL template.
