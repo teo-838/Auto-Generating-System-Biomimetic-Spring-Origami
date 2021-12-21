@@ -1,0 +1,17 @@
+Auto-Generating System,,
+Parameters,Label,Origami1
+Linewidth:,,1
+Number of block:,,1
+Input format:,,Ratio
+Left unit,,1.0/1.0
+Right unit,,1.0/1.0
+Row,,1
+Repeat,,1
+Functions,,Specific Structure
+Twist,,None
+Facet angle,,
+Iterative,Opacity,
+Specific,Crease ID,1
+,Opacity,5
+,Crease ID,2
+,Opacity,40

@@ -1,0 +1,15 @@
+Auto-Generating System,,,,
+Parameters,Label,Origami1,Origami2,Origami3
+Linewidth:,,1,1,1
+Number of block:,,1,2,3
+Input format:,,Ratio,Angle,Ratio
+Left unit,,4.0/3.0,45,1.0/1
+Right unit,,1.0/1.0,30,1.0/1
+Row,,2,3,2
+Repeat,,2,2,3
+Functions,,Normal,Normal,Normal
+Twist,,None,Twist,
+Facet angle,,,,20
+Iterative,Opacity,,,
+Specific,Crease ID,,,
+,Opacity,,,
